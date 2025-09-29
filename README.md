@@ -10,11 +10,7 @@
 - 后端：Node.js, Express
 - 数据库：MySQL, MongoDB, PostgreSQL
 - 工具：Git, Docker, Linux
-
-<!-- 项目展示 -->
-## 📌 精选项目
-- [Coderhub-app](https://github.com/ZenDevon/Coderhub-app): 一个现代开发者社区平台。
-
+- 
 <!-- 社交链接 -->
 ## 🌐 与我联系
 - [邮箱](mailto:ZenDevon@163.com)
